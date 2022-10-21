@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Louis
-- 🤖 I currently work at Innok Robotics
-- 🎓 I also teach Javascript Development at University
-- 👀 I’m interested in lightweight JS and way too complicated CSS
-- 🌱 I’m currently learning Svelte
+- 🤖 I build user interfaces and make outdoor robots go vroom @ [Innok Robotics](https://www.innok-robotics.de/)
 - (☞ﾟヮﾟ)☞ [Weird and fun CSS I made](https://codepen.io/NeonApe)
 
 <!---
